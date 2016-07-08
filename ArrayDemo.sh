@@ -20,3 +20,5 @@ echo "print all value" ${fruit_value[*]}
 echo "print all keys:" ${!fruit_value[*]}
 
 this is add from btestx
+
+# second from btestx
