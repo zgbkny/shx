@@ -18,3 +18,5 @@ fruit_value=([apple]="100 dollars" [orange]="130 dollars")
 fruit_value[pear]="14 dollars";
 echo "print all value" ${fruit_value[*]}
 echo "print all keys:" ${!fruit_value[*]}
+
+# this is add on master
